@@ -1,2 +1,3 @@
 create test1.txt file
 Tested pass
+and dummy.txt created
